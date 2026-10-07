@@ -232,6 +232,7 @@
 - [PDF2go](https://www.pdf2go.com/zh/)【在线 PDF 转换器，编辑，旋转和压缩 PDF 文件】
 - [Smallpdf](https://smallpdf.com/cn)【所有 PDF 问题的免费解决方案】
 - [iLovePDF](https://www.ilovepdf.com/zh_cn)【为 PDF 爱好者提供的 PDF 文件在线处理工具】
+- [Practical Web Tools](https://practicalwebtools.com/)【1,400+ 免费浏览器工具：PDF 编辑/转换、图片/音频转换、200+ 计算器，全部本地处理，无需上传】
 - [LightPDF]( https://lightpdf.com/zh/ )【免费在线编辑、转换 PDF 文件】
 
 **格式转换：** 
